@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+span{
+    padding: 0;
+    margin: 0;
+}
+
+/* All Commoun CSS End */
+
+.full_body{
+    position: relative;
+    width: 100%;
+}
+.full_body section{
+    position: sticky;
+    height: 100vh;
+    width: 100%;
+    top: 0;
+}
+.full_body #section_1{
+    background: #000000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 60px;
+    color: #ffffff;
+    text-transform: uppercase;
+}
+.full_body #section_2{
+    background: #ff6600;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 60px;
+    color: #ffffff;
+    text-transform: uppercase;
+}
+.full_body #section_3{
+    background: #ffd900;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 60px;
+    color: #ffffff;
+    text-transform: uppercase;
+}
+.full_body #section_4{
+    background: #33ff00;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 60px;
+    color: #ffffff;
+    text-transform: uppercase;
+}
+.full_body #section_5{
+    background: #0044ff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 60px;
+    color: #ffffff;
+    text-transform: uppercase;
+}
